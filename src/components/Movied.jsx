@@ -18,9 +18,9 @@ function Movie(props) {
           <img className="activator" src={poster} />
         )}
       </div>
-      {/*<a className="btn-floating halfway-fab waves-effect waves-light red">*/}
-      {/*  <i className="material-icons">add</i>*/}
-      {/*</a>*/}
+      <a className="btn-floating halfway-fab waves-effect waves-light red">
+        <i className="material-icons">add</i>
+      </a>
 
       <div className="card-content">
         <span className="card-title activator grey-text text-darken-4">
